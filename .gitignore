@@ -1,0 +1,8 @@
+# Ignore object files and executables created by gcc
+*.o
+*.out
+*.exe 
+*.app
+*.elf
+*.a 
+*.so
