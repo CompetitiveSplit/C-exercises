@@ -20,4 +20,5 @@ int main(void) {
     printf("%d is greater than %d and %d\n", number3, number1, number2);
 
   }
+  return 0;
 }

@@ -14,4 +14,5 @@ int main(void) {
   } else {
     printf("%d is greater than %d\n", number2, number1);
   }
+  return 0;
 }

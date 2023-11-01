@@ -22,4 +22,6 @@ int main(void) {
     printf("sustraction: %d\n", sustraction);
     printf("product %d\n", product);
   }
+
+  return 0;
 }

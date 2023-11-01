@@ -10,7 +10,8 @@ int main(void) {
     printf("The state of the water is solid\n");
   } else if (water_temperature > 1 && water_temperature <= 100) {
     printf("The state of the water is liquid\n");
-  }else{
+  } else {
     printf("The state of the water is gas \n");
   }
+  return 0;
 }
